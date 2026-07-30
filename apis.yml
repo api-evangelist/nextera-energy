@@ -10,7 +10,18 @@ description: >-
   and any developer or data resources for NextEra Energy. No public REST APIs,
   developer portal, or machine-readable data feeds have been identified at this time.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nextera-energy.png
 tags:
   - Energy
   - Electric Utility
