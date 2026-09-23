@@ -1,7 +1,9 @@
 ---
 title: NextEra Energy and Google Announce New Collaboration to ...
 url: https://www.investor.nexteraenergy.com/news-and-events/news-releases/2025/10-27-2025-203948689
-date: '2026-05-25'
+published: '2025-10-27'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"NextEra Energy" press release artificial intelligence'
 position: 2
 source: serpapi-google

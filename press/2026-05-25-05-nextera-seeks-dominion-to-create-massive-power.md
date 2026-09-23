@@ -1,7 +1,9 @@
 ---
 title: NextEra seeks Dominion to create massive power ...
 url: https://www.pbs.org/newshour/nation/nextera-seeks-dominion-to-create-massive-power-company-as-ai-drives-energy-demand
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"NextEra Energy" press release artificial intelligence'
 position: 5
 source: serpapi-google
